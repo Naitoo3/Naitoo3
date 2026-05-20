@@ -1,2 +1,2 @@
-# readme
-readme project, used for my profile description
+# Bonjour, je suis Nathan !
+La suite arrive bientôt...
