@@ -1,11 +1,11 @@
-# Hello, I'm Nathan!
-- Aspiring software developer/engineer
-- Aspiring web developer
-- Proficient in French (C1) & English (B2)
-# About me :
-I'm 20 years old. Ever since I first touched a computer, I felt a spark that always made me want to explore the intricate designs of modern programming.
+# Hey, I'm Nathan!
+  Ever since I first touched a computer, I've always wanted to know how does one function, and afterwards building solutions that help people.
+  My fields are web developpement, and all kind of things that show on your little browser page.
+  My skills allow me to fluently communicate with you in English, or in French
+
+
 ## My skills :
-- FRONT END :
+### FRONT END :
 <p>
   <img src="images/html5.png" alt="HTML5" width="50">
   <br>
